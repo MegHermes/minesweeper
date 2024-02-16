@@ -2,7 +2,7 @@
 
 ## Tools
 
-created with React, Redux, Material Ui
+Created with React, Redux, Material Ui
 
 ## Features:
 
