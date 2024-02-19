@@ -14,8 +14,9 @@ Created with React, Redux, Material Ui
 ## How to run:
 - Download repo
 - Open terminal
-- Type "npm install"
-- Type "npm start"
+- Navigate to folder ("cd ~/downloads/minesweeper")
+- Type "npm install" or yarn install
+- Type "npm start" 
 - Game should open automatically, if not, open "http://localhost:3000"
 
 ## Images:
